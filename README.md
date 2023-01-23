@@ -1,10 +1,10 @@
 ## 1. opencv-cartoon-generator
 An OpenCV cartoon generator using images or a webcam
 
-## 2. How to run:
+## 2. How to run
 Within the script you can find 3 functions. Uncomment the one which you like to try, and run the script: capture_functions.py
 
-## 3. Example run function:
+## 3. Example run function
 #Use function(image_filename, filename_for saving)
 
 picture_to_cartoon("100_1904.jpg", "converted2.jpg")
@@ -17,7 +17,7 @@ live_cartoon(1)
 
 snap_cartoon(0, "my_new_snap2.jpg")
 
-## 4. Example output:
+## 4. Example output
 ![alt text](https://github.com/tslenter/opencv-cartoon-generator/blob/main/example.jpg?raw=true)
 
 ## 5. License
