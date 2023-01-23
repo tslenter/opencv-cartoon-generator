@@ -17,6 +17,8 @@ live_cartoon(1)
 
 snap_cartoon(0, "my_new_snap2.jpg")
 
+![alt text](https://github.com/tslenter/opencv-cartoon-generator/blob/[branch]/image.jpg?raw=true)
+
 ## 4. License
 
 "opencv-cartoon-generator" is a free application that can be used to make livestream or image cartoon like.
